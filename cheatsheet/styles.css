@@ -1,0 +1,19 @@
+h1 {
+  border-style: dashed;
+}
+h2 {
+  color: green;
+  text-align: center;
+}
+
+h2 {
+  color: orange;
+}
+
+#foo {
+  color: purple;
+}
+
+.medium {
+  color: #800000;
+}
